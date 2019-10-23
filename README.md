@@ -9,7 +9,7 @@
 In this repo we will analyzing the movie rating review for natural languages processing using NLTK.
 
 Steps:
-* We will use movie review datset by NLTK
+* We will use movie review dataset by NLTK
 * Use nltk corpora
 * tokenize the words
 * Build a Bag-of-Words Model
